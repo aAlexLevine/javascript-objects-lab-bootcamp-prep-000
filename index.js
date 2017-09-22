@@ -13,5 +13,5 @@ return object
 function deleteFromObjectByKey(object, key) {
 Object.clone()
 delete object.key
-return object 
+return object
 }
